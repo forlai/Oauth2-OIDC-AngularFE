@@ -1,0 +1,26 @@
+https://blog.angular-university.io/angular-jwt-authentication/
+
+https://jasonwatmore.com/post/2019/06/22/angular-8-jwt-authentication-example-tutorial
+https://jasonwatmore.com/post/2020/07/25/angular-10-jwt-authentication-with-refresh-tokens
+
+https://www.toptal.com/angular/angular-6-jwt-authentication
+
+
+https://dzone.com/articles/implementing-oauth2-social-login-with-facebook-par-1
+
+
+Codice di Bryan Noyes:
+https://github.com/mbarsott/SecuringAngularApps
+
+
+Tutti i tipi di oidc flow:
+https://darutk.medium.com/diagrams-of-all-the-openid-connect-flows-6968e3990660
+
+login con facebook:
+https://dev.to/nileshsanyal/implementing-oauth2-social-login-with-facebook-part-2-2pee
+
+how use facebook sdk in angular
+https://jasonwatmore.com/post/2020/09/22/angular-facebook-how-to-use-the-facebook-sdk-in-an-angular-app
+
+
+
